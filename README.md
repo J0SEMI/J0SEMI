@@ -1,4 +1,7 @@
-### 👋 Hola, soy **_@J0SEMI_**🌱
+### 👋 Hola, soy _**@J0SEMI**_🌱
+
+![imagen](https://github.com/user-attachments/assets/bdc0cee2-6fdf-414f-b9d8-ce93f6d23552)
+
 
 
 ¡Bienvenido a mi perfil de GitHub! 🎉 Actualmente soy estudiante de **Desarrollo de Aplicaciones Multiplataforma** (DAM) 📱💻.
